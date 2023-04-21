@@ -1,4 +1,4 @@
-FROM postgres:latest
+FROM postgres:11
 
 ENV POSTGRES_USER=root
 ENV POSTGRES_PASSWORD=root
